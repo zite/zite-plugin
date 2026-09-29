@@ -1,0 +1,14 @@
+{
+  "name": "zite",
+  "displayName": "Zite",
+  "version": "1.0.0",
+  "description": "Build apps on your Zite databases: query and edit records, run SQL, scaffold apps, and publish — through the Zite MCP server.",
+  "author": { "name": "Zite", "url": "https://www.zite.com" },
+  "publisher": "Zite",
+  "homepage": "https://www.zite.com",
+  "repository": "https://github.com/zite/zite-plugin",
+  "license": "MIT",
+  "category": "integrations",
+  "keywords": ["zite", "zite app", "zitejs"],
+  "logo": "assets/logo.svg"
+}
